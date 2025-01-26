@@ -17,7 +17,7 @@ function createBubble() {
   //depois de 7 segundos, deleta a bolha criada
   setTimeout(() => {
     bubble.remove();
-  }, 7000);
+  }, 20000);
 }
 
 //Cria a bolha a cada segundo
